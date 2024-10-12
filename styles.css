@@ -1,0 +1,71 @@
+
+  .descripcion {
+    text-align: justify;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    color: #333333;
+  }
+
+  h2 {
+    margin-top: 40px;
+    font-family: 'Arial', sans-serif;
+    font-size: 2rem;
+    
+    color: #ef0f0f;
+}
+
+  .list-group-item {
+    background-color: #f8f9fa;
+    font-size: 1.1rem;
+    color: #333333;
+  }
+
+  form {
+    margin-top: 20px;
+    margin-bottom: 100px;
+  }
+  
+  form .btn {
+    background-color: #ff1c1c;
+    border: none;
+  }
+  
+  form .btn:hover {
+    background-color: #d41111;
+  }
+  
+  form input[type="email"] {
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+  }
+
+  .clasificacion-numero {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  .apellido {
+    font-weight: bold;
+    font-size: 1.3rem; /
+  }
+  
+
+  .equipo {
+    font-weight: bold;
+    font-size: 1.3rem; 
+  }
+
+  .borde-contenedor {
+    border: 2px solid black;
+    padding: 15px; 
+    border-radius: 5px;
+    margin-bottom: 30px; 
+}
+
+.team-color {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+  }
